@@ -1,4 +1,4 @@
-# S5BAI
-Here is some code for S5B AI class and 聯課活動
+# AI class
+Here is some code for AI class
 
 If you want to download the folder, [here the link.](https://download-directory.github.io/)
